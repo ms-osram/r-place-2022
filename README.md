@@ -38,6 +38,6 @@ This repository is made possible thanks to the contributions of the following in
 
 [F5XS](https://github.com/f5xs-0000a): Transformed the original CSV files provided by u/paul_that into an [SQLite database](https://github.com/f5xs-0000a/r_place_2022) format. Their efforts have made it easier for users to search, query, and analyze the dataset. Additionally, F5XS created exercises and solutions for analyzing the r/place 2022 dataset, providing valuable resources for understanding the data and its context. 
 
-Feel free to clone this repository, use the dataset, and contribute to the analysis and understanding of r/place 2022.
+Feel free to use the dataset and contribute to the analysis and understanding of r/place 2022.
 
 Enjoy your exploration of the r/place 2022 dataset!
