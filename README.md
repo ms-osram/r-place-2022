@@ -19,7 +19,7 @@ In addition to the original CSV files, an SQLite version of the r/place 2022 dat
 
 This repository includes additional resources and exercises for working with the r/place 2022 dataset. The exercises were created by F5XS and are arranged in ascending order of difficulty. They provide a hands-on approach to exploring and analyzing the dataset. Solutions for the exercises may be available in the future, but it is recommended to attempt them independently before referring to the solutions.
 
-Additionally, ms-osram has contributed a set of their own questions to further explore the dataset. These questions are also included in the repository, providing different perspectives and avenues for investigation.
+Additionally, I have contributed a set of my own questions to further explore the dataset. These questions are also included in the repository, providing different perspectives and avenues for investigation.
 
 ## Getting Started
 
