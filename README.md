@@ -29,6 +29,14 @@ To begin exploring the r/place 2022 dataset, you can:
     Utilize the exercises provided by F5XS to gain insights into the dataset.
     Explore the questions and queries posed by ms-osram to delve deeper into the data.
     Analyze the tile placement data, timestamps, user IDs, pixel colors, and coordinates to understand the collaborative artwork created during the r/place event.
+    
+## Credits
+
+This repository is made possible thanks to the contributions of the following individuals:
+
+    u/paul_that: Provided the original tile placement data for the r/place 2022 dataset, allowing us to explore and analyze the collaborative artwork created by Redditors.
+
+    F5XS: Transformed the original CSV files provided by u/paul_that into an SQLite database format. Their efforts have made it easier for users to search, query, and analyze the dataset. Additionally, F5XS created exercises and solutions for analyzing the r/place 2022 dataset, providing valuable resources for understanding the data and its context.
 
 Feel free to clone this repository, use the dataset, and contribute to the analysis and understanding of r/place 2022.
 
