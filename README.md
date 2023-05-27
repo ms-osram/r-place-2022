@@ -36,7 +36,7 @@ This repository is made possible thanks to the contributions of the following in
 
 [u/paul_that](https://www.reddit.com/user/paul_that/): Provided the [original tile placement data](https://www.reddit.com/r/place/comments/txvk2d/rplace_datasets_april_fools_2022/) for the r/place 2022 dataset, allowing us to explore and analyze the collaborative artwork created by Redditors. 
 
-[F5XS](https://github.com/f5xs-0000a): Transformed the original CSV files provided by u/paul_that into an SQLite database format. Their efforts have made it easier for users to search, query, and analyze the dataset. Additionally, F5XS created exercises and solutions for analyzing the r/place 2022 dataset, providing valuable resources for understanding the data and its context. You can find the dataset through [this link](https://github.com/f5xs-0000a/r_place_2022) 
+[F5XS](https://github.com/f5xs-0000a): Transformed the original CSV files provided by u/paul_that into an [SQLite database](https://github.com/f5xs-0000a/r_place_2022) format. Their efforts have made it easier for users to search, query, and analyze the dataset. Additionally, F5XS created exercises and solutions for analyzing the r/place 2022 dataset, providing valuable resources for understanding the data and its context. 
 
 Feel free to clone this repository, use the dataset, and contribute to the analysis and understanding of r/place 2022.
 
