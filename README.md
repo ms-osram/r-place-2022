@@ -2,7 +2,8 @@
 ## Introduction
 
 Welcome to the r/place 2022 dataset! This readme file provides an overview of the dataset and its context. The r/place event was a popular April Fools' experiment on Reddit where users collaborated to create a shared pixel art canvas by placing one tile every five minutes. This dataset captures the tile placement data and allows for exploration and analysis of the collective artwork created by Redditors.
-Tile Placement Data
+
+## Tile Placement Data
 
 The dataset contains comprehensive information about each tile placed during the r/place event. The data is available in CSV format and has the following structure:
 
