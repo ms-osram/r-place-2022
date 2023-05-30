@@ -1,0 +1,3 @@
+[submodule "origin database"]
+	path = origin database
+	url = git@github.com:f5xs-0000a/r_place_2022.git
