@@ -1,0 +1,1 @@
+/*Question 10: How many users have the Final Canvas '22 trophy? (i.e. how many users have their colors last until just before the Whiteout)*/

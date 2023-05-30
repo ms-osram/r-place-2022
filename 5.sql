@@ -1,0 +1,1 @@
+/*Question 5: Which color is the most used, before the Whiteout happened?*/

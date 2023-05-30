@@ -1,0 +1,1 @@
+/*Question 9: How many users have the First Placer '22 trophy? (i.e. how many users placed a color first on a tile)*/

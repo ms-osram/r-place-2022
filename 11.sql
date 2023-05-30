@@ -1,0 +1,1 @@
+/*Question 11: How many users have their color white last until the end of the Whiteout?*/

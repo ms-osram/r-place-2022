@@ -1,0 +1,1 @@
+/*Question 6: How many people participated during the Whiteout?*/
